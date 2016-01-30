@@ -1,12 +1,12 @@
 {
-  "name": "d5-wildcard",
+  "name": "Boilerplate",
   "version": "1.0.0",
-  "description": "Database CRUD tool for D5-WildCard app",
-  "main": "index.js",
+  "description": "Personal project boilerplate",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
-  "author": "",
+  "author": "Rafael Veiga <rafaelveiga.com>",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.10.1",
